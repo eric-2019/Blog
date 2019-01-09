@@ -1,0 +1,9 @@
+baseURL = "https://eric2017.tk"
+title = "Eric's Blog"
+theme = "aether"
+googleAnalytics = "UA-113651736-1"
+
+[params]
+brand = "Eric's Blog"
+description = "Blog by Eric"
+bgimg = "/img/ignasi_pattern_s.png"
