@@ -1,42 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<search>
-    
-     <entry>
-        <title>JavaScript 学习笔记 Week 1</title>
-        <url>https://eric2017.tk/post/javascript-week-1/</url>
-        <categories>
-          
-        </categories>
-        <tags>
-          <tag>Note</tag><tag>JavaScript</tag>
-        </tags>
-        <content type="html">  今天正式开始学习JS，同时打算以笔记的形式记录我的学习过程，目前计划每周更新一篇，拭目以待~
-1. js代码与css类似，需要写在script标签中 2. hello world ``` alert(&amp;quot;Hello world&amp;quot;); *弹出窗口* document.write(&amp;quot;Hello world&amp;quot;); *在body中输出内容* console.log(&amp;quot;Hello world&amp;quot;); *在控制台中输出内容* ```  3. 按钮触发 ``` &amp;lt;body&amp;gt; &amp;lt;button onclick=&amp;quot;alert(&#39;内容&#39;);&amp;quot;&amp;gt;按钮&amp;lt;/button&amp;gt; &amp;lt;a href=&amp;quot;javascript:alert(&#39;逗你的&#39;)&amp;quot;&amp;gt;点我有惊喜&amp;lt;/a&amp;gt; &amp;lt;/body&amp;gt; ```  4. JS基本语法  JS中严格区分大小写 每一条语句以分号结尾 自动忽略多个分号和换行，可以此进行格式化  5. 字面量和变量  字面量不可变，可直接使用不加引号，如123 变量可以用来保存字面量，值可以改变，如x=1 使用var关键字声明变量，var a; 并赋值a = 123; var a = 123; 使以上两步的合并  </content>
-    </entry>
-    
-     <entry>
-        <title>Welcome</title>
-        <url>https://eric2017.tk/post/welcome/</url>
-        <categories>
-          
-        </categories>
-        <tags>
-          
-        </tags>
-        <content type="html"> 这是我的Blog中的第一篇文章。
-</content>
-    </entry>
-    
-     <entry>
-        <title>Posts</title>
-        <url>https://eric2017.tk/post/</url>
-        <categories>
-          
-        </categories>
-        <tags>
-          
-        </tags>
-        <content type="html"> </content>
-    </entry>
-    
-</search>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://eric2017.tk/posts/javascript-week-1/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eric2017.tk/posts/welcome/</loc>
+    <lastmod>2018-11-18T18:46:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eric2017.tk/about-hugo/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eric2017.tk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric2017.tk/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric2017.tk/tags/javascript/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric2017.tk/tags/note/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric2017.tk/posts/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eric2017.tk/tags/</loc>
+    <lastmod>2019-01-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
