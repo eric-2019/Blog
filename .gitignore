@@ -1,4 +1,2 @@
-# public
-public
-# git-tmp
-git-tmp
+public/*
+git-tmp/*
