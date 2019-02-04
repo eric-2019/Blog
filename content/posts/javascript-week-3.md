@@ -38,4 +38,4 @@ document.querySelector('#form').onsubmit = async (e) => { //找到form这个元�
 }
 ```
 
-注：此部分涉及Promises, async/await等，就我目前进度来说稍有超前，所以详细的笔记将在之后学到是记录。
+注：此部分涉及Promises, async/await等，就我目前进度来说稍有超前，所以详细的笔记将在之后学到时记录。
