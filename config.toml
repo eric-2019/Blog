@@ -6,7 +6,7 @@ theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = false
 pygmentsUseClasses  = false
-# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
@@ -34,7 +34,7 @@ googleAnalytics = "UA-113651736-1"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A Front end beginner."
+  homeSubtitle = "A Javascript Beginner"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
