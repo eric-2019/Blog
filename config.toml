@@ -1,6 +1,6 @@
 baseURL = "https://www.ericxiang.com"
-languageCode = "zh-cn"
-defaultContentLanguage = "en"
+languageCode = "en-us"
+defaultContentLanguage = "zh-hans"
 title = "Eric's Blog"
 theme = "hermit"
 # enableGitInfo = true
